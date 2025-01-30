@@ -29,6 +29,12 @@
             <version>${logback.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.intuit.karate</groupId>
+            <artifactId>karate-core</artifactId>
+            <version>1.2.0</version>
+        </dependency>
+
         <!-- Serenity Dependencies -->
         <dependency>
             <groupId>net.serenity-bdd</groupId>
